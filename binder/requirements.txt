@@ -1,2 +1,2 @@
--r ../requirements/environment.yml
+-r ../requirements/install.txt
 .
